@@ -13,5 +13,13 @@ namespace POOFundamentos
         {
             Console.WriteLine($"Olá, eu sou {Nome}");
         }
+        public void CumprimentarAlguem(string outraPessoa)
+        {
+            Console.WriteLine($"Olá, {outraPessoa}. Meu nome é {Nome}");
+        }
+        public string ObterApresentacao()
+        {
+            return $"Meu ome é {Nome}";
+        }
     }
 }

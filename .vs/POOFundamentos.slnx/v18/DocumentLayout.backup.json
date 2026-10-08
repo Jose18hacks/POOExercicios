@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:2:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\pessoa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:pessoa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\poofundamentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:poofundamentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,33 +58,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Pessoa2.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Pessoa2.cs",
+              "RelativeDocumentMoniker": "Pessoa2.cs",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Pessoa2.cs",
+              "RelativeToolTip": "Pessoa2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T22:48:49.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAMoAAABDAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAM0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T22:12:52.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ContaBancaria.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\ContaBancaria.cs",
               "RelativeDocumentMoniker": "ContaBancaria.cs",
               "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\ContaBancaria.cs",
               "RelativeToolTip": "ContaBancaria.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T00:27:00.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Lampada.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Lampada.cs",
               "RelativeDocumentMoniker": "Lampada.cs",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Retangulo.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Retangulo.cs",
               "RelativeDocumentMoniker": "Retangulo.cs",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Pessoa.cs",
               "RelativeDocumentMoniker": "Pessoa.cs",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Pedido.cs",
               "RelativeDocumentMoniker": "Pedido.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Carros.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Carros.cs",
               "RelativeDocumentMoniker": "Carros.cs",
@@ -166,9 +183,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAM8AAAAAAAAAAAAAAOUAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T22:16:42.221Z",
               "EditorCaption": ""
