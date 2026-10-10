@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POOFundamentos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3b926eea15e4ce2a165aec52e2f07bf15920ba4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03ea23c98de71030877c3510e021da55840141ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("POOFundamentos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POOFundamentos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

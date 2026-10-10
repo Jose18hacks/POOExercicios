@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:2:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:2:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3091BF97-2A19-4B11-AD03-A9C0A7BDFFC7}|..\\PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\source\\repos\\pilarespoo\\boletim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\pessoa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:pessoa2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3091BF97-2A19-4B11-AD03-A9C0A7BDFFC7}|..\\PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\source\\repos\\pilarespoo\\contadordevisitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3091BF97-2A19-4B11-AD03-A9C0A7BDFFC7}|..\\PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\source\\repos\\pilarespoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\poofundamentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:poofundamentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3091BF97-2A19-4B11-AD03-A9C0A7BDFFC7}|..\\PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\source\\repos\\pilarespoo\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3091BF97-2A19-4B11-AD03-A9C0A7BDFFC7}|..\\PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\source\\repos\\pilarespoo\\viagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3091BF97-2A19-4B11-AD03-A9C0A7BDFFC7}|..\\PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\source\\repos\\pilarespoo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3091BF97-2A19-4B11-AD03-A9C0A7BDFFC7}|..\\PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\source\\repos\\pilarespoo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:1:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:1:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|c:\\users\\56385615871\\source\\repos\\poofundamentos\\carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18077131-FAD7-BC77-B630-BDBCFB25C3D1}|POOFundamentos.csproj|solutionrelative:carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3091BF97-2A19-4B11-AD03-A9C0A7BDFFC7}|..\\PilaresPOO\\PilaresPOO.csproj|c:\\users\\56385615871\\source\\repos\\pilarespoo\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,136 +42,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pessoa2.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Pessoa2.cs",
-              "RelativeDocumentMoniker": "Pessoa2.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Pessoa2.cs",
-              "RelativeToolTip": "Pessoa2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Boletim.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Boletim.cs",
+              "RelativeDocumentMoniker": "..\\PilaresPOO\\Boletim.cs",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Boletim.cs",
+              "RelativeToolTip": "..\\PilaresPOO\\Boletim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T22:48:49.06Z",
+              "WhenOpened": "2026-10-10T00:38:54.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAM0AAABDAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ContadorDeVisitas.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\ContadorDeVisitas.cs",
+              "RelativeDocumentMoniker": "..\\PilaresPOO\\ContadorDeVisitas.cs",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\ContadorDeVisitas.cs",
+              "RelativeToolTip": "..\\PilaresPOO\\ContadorDeVisitas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T22:12:52.694Z",
+              "WhenOpened": "2026-10-10T00:25:51.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Contato.cs",
+              "RelativeDocumentMoniker": "..\\PilaresPOO\\Contato.cs",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Contato.cs",
+              "RelativeToolTip": "..\\PilaresPOO\\Contato.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T00:16:51.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ContaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\ContaBancaria.cs",
-              "RelativeDocumentMoniker": "ContaBancaria.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\ContaBancaria.cs",
-              "RelativeToolTip": "ContaBancaria.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB4AAAAJAAAAAAAAAA==",
+              "Title": "Viagem.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Viagem.cs",
+              "RelativeDocumentMoniker": "..\\PilaresPOO\\Viagem.cs",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Viagem.cs",
+              "RelativeToolTip": "..\\PilaresPOO\\Viagem.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBkAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T00:27:00.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Lampada.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Lampada.cs",
-              "RelativeDocumentMoniker": "Lampada.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Lampada.cs",
-              "RelativeToolTip": "Lampada.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T23:14:31.396Z",
+              "WhenOpened": "2026-10-09T23:22:49.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Retangulo.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Retangulo.cs",
-              "RelativeDocumentMoniker": "Retangulo.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Retangulo.cs",
-              "RelativeToolTip": "Retangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Livro.cs",
+              "RelativeDocumentMoniker": "..\\PilaresPOO\\Livro.cs",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Livro.cs",
+              "RelativeToolTip": "..\\PilaresPOO\\Livro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:49:10.092Z",
+              "WhenOpened": "2026-10-09T23:14:04.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Pessoa.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Pessoa.cs",
-              "RelativeToolTip": "Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "..\\PilaresPOO\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\ContaBancaria.cs",
+              "RelativeToolTip": "..\\PilaresPOO\\ContaBancaria.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T22:37:49.37Z"
+              "WhenOpened": "2026-10-09T22:44:17.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Pedido.cs",
-              "RelativeDocumentMoniker": "Pedido.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Pedido.cs",
-              "RelativeToolTip": "Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T00:27:39.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Carros.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Carros.cs",
-              "RelativeDocumentMoniker": "Carros.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Carros.cs",
-              "RelativeToolTip": "Carros.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T23:10:30.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "POOFundamentos.csproj",
-              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\POOFundamentos.csproj",
-              "RelativeDocumentMoniker": "POOFundamentos.csproj",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\POOFundamentos.csproj",
-              "RelativeToolTip": "POOFundamentos.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-06T23:09:04.425Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\POOFundamentos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAPwAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PilaresPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Program.cs",
+              "RelativeToolTip": "..\\PilaresPOO\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-08T22:16:42.221Z",
+              "WhenOpened": "2026-10-09T22:28:14.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Carro.cs",
+              "RelativeDocumentMoniker": "..\\PilaresPOO\\Carro.cs",
+              "ToolTip": "C:\\Users\\56385615871\\source\\repos\\PilaresPOO\\Carro.cs",
+              "RelativeToolTip": "..\\PilaresPOO\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T22:16:31.443Z",
               "EditorCaption": ""
             }
           ]

@@ -19,7 +19,7 @@ namespace POOFundamentos
         }
         public string ObterApresentacao()
         {
-            return $"Meu ome é {Nome}";
+            return $"Meu nome é {Nome}";
         }
     }
 }
